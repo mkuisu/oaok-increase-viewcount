@@ -1,11 +1,13 @@
 # OAOK view count boost
-![Alt Text](views.gif)
+<p align="center">
+    <img src="views.gif">
+</p>
 # View count boost
 Want your models at [OAOK](https://oaok.ru/) to have the most amount of views? Or want to become a philanthropist and help other users? Then I'm introducing to you, view count boost script!
 # How to install
 1. Install [Python 3](https://www.python.org/downloads/) (3.10+ version is necessary). During installation, check the option `"Add to PATH"`.
 2. Download repository.
-3. Install the libraries required by the program using [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/). You can see list of needed libraries in `requirement.txt` file.
+3. Install the libraries required by the program using [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/). You can see list of needed libraries in `requirements.txt` file.
 4. Open `oaok_main.py` file (cmd, IDE or anything else). 
 5. Follow the instructions.
 # Working with the program
